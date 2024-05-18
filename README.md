@@ -1,10 +1,15 @@
+# [Quotes](https://quotes-bb6b0.web.app/allQuotes)
+
 ## What is it about?
+**Quotes** is a user-friendly website built with React that allows you to collect and share quotes. 
 
-*Quotes is a single page application(SPA), created using third party library - React-router-Dom, allows to creates SPA in React*<br/>
+* It's a single page application built using react-router-dom.
 
-*Allows users to add new Quotes and store it in a backend (FireBase used as a dummy backend database) upon adding* <br/>
+* Add new quotes and see them displayed on the page.
 
-*Fetch the data stored and render all quotes and also allows users to add comments to the respective quote*
+* Leave comments on existing quotes to share your thoughts.
+  
+* Added quotes are stored in the database(firebase) and displayed on the next page load.
 
 ## Project Screen shorts
 
